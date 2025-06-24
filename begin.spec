@@ -5,7 +5,7 @@ a = Analysis(
     ['begin.py'],
     pathex=[],
     binaries=[],
-    datas=[('C:/Users/djbub/Downloads/shhhhh/shhhhh/LOW.png', 'shhhhh'), ('C:/Users/djbub/Downloads/shhhhh/shhhhh/HALF.png', 'shhhhh'), ('C:/Users/djbub/Downloads/shhhhh/shhhhh/FULL.png', 'shhhhh')],
+    datas=[('C:\\Users\\djbub\\OneDrive\\Documents\\GitHub\\Startup-Executable-\\LOW.png', 'shhhhh'), ('C:\\Users\\djbub\\OneDrive\\Documents\\GitHub\\Startup-Executable-\\HALF.png', 'shhhhh'), ('C:\\Users\\djbub\\OneDrive\\Documents\\GitHub\\Startup-Executable-\\FULL.png', 'shhhhh'), ('C:\\Users\\djbub\\OneDrive\\Documents\\GitHub\\Startup-Executable-\\HeartIcon.ico', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},

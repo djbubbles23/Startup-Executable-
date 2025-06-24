@@ -174,7 +174,7 @@ async def update_forecast():
     forecastLabel.config(text=(f"Current Forecast: {currentForecastEmoji}"))
     root.after(600000, update_forecast)  # Update every 10 minutes
 
-root.iconbitmap("C:/Users/djbub/Downloads/shhhhh/shhhhh/HeartIcon.ico") 
+root.iconbitmap(resource_path("HeartIcon.ico")) 
 
 #eof
 update_forecast()
